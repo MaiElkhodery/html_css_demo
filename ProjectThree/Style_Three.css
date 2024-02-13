@@ -1,0 +1,30 @@
+﻿body
+{
+}
+.header {
+    background-image: url(IMG-20210323-WA0105.jpg);
+    background-size: cover;
+    text-align: center;
+    margin: 0px;
+    height: 33rem;
+/*    background: url(IMG-20210323-WA0105.jpg) no-repeat 0.9;
+*/}
+.header h1 {
+    font-size: 80px;
+    margin-top: 0px;
+    padding-top: 2em;
+}
+.header a {
+    text-decoration: none;
+    border: #e1f5fe;
+    border-width: 2px;
+    border-style: groove;
+    padding: 7px;
+    color: black;
+    font-size: larger;
+}
+.header p {
+    font-size: 17px;
+    margin-bottom: 54px;
+}
+/*url(http://traversymedia.com/downloads/assets/beachshowcase.jpg)*/

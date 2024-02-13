@@ -1,0 +1,63 @@
+﻿body {
+    background-color: #8080805c;
+}
+.info input{
+    display:block;
+    width:80%;
+    margin-top:10px;
+    padding:3px 4px;
+}
+].info label {
+   display:inline;
+}
+.personal_details {
+    border-style: groove;
+    margin: 6px;
+    background-color: #5d6387;
+}
+.info{
+    padding:30px;
+    width:70%;
+}
+.head {
+    text-align: center;
+    padding: 14px;
+    background-color: #dac0a1;
+}
+.info p{
+    display:inline;
+}
+.info input[type=radio]{
+    display:inline;
+}
+.male,
+.female{
+    display:inline;
+    margin-right:10px;
+}
+.gender {
+    margin: 0px 30px 20px 30px;
+    width: 70%;
+}
+.improve {
+    border-style: groove;
+    margin: 6px;
+    background-color: #5d6387;
+}
+.improve form{
+    padding:30px;
+    width:70%;
+}
+.improve p {
+    padding: 5px 30px;
+    font-size:25px;
+}
+.button form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #80808063;
+    border: none;
+    margin: 6px -7px 6px 5px;
+}
+
